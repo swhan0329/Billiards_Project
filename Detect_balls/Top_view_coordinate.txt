@@ -1,0 +1,1200 @@
+frame num : 1
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 2
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 3
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 4
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 5
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 6
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 7
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 8
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 9
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 10
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 11
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 12
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 13
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 1.72522, 2.51639 )  
+frame num : 14
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90995, 1.81807 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 15
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.90992, 1.81185 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 16
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 17
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 18
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 19
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 20
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.97743, 1.3916 )  
+frame num : 21
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.21593, 1.26857 )  
+frame num : 22
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 23
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.71263, 1.07445 )  
+frame num : 24
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 25
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 26
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 27
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 28
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.45916, 0.533345 )  
+frame num : 29
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 30
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 31
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 32
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 33
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.43329, 0.155592 )  
+frame num : 34
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.62925, 0.228328 )  
+frame num : 35
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.82895, 0.294803 )  
+frame num : 36
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 0.244441, 0.815883 ) 
+White Ball( 0.244441, 0.815883 )  
+frame num : 37
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 0.167908, 0.894843 ) 
+White Ball( 6.18047, 0.436269 )  
+frame num : 38
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 6.4213, 0.496482 )  
+frame num : 39
+Red Ball( 7.19045, 3.80847 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 40
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 6.79299, 0.605426 )  
+frame num : 41
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 42
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 43
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 7.3752, 0.771965 )  
+frame num : 44
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 7.54249, 0.828556 )  
+frame num : 45
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 46
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 47
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.372234, 1.55286 )  
+frame num : 48
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 7.44324, 1.13939 )  
+frame num : 49
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 7.11498, 1.25878 )  
+frame num : 50
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 7.18045, 1.37869 )  
+frame num : 51
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 6.955, 1.45843 )  
+frame num : 52
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 53
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 54
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 55
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 0.662408, 2.07356 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 56
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 0.695337, 2.13711 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 57
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 0.74485, 2.20105 ) 
+White Ball( 6.30666, 2.02503 )  
+frame num : 58
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 0.728701, 2.2704 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 59
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 0.794948, 2.32935 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 60
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 0.795222, 2.3933 ) 
+White Ball( 5.89496, 2.30259 )  
+frame num : 61
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 0.878751, 2.4534 ) 
+White Ball( 0.84536, 2.45845 )  
+frame num : 62
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 0.912634, 2.53033 ) 
+White Ball( 5.75223, 2.51466 )  
+frame num : 63
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 64
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 65
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 1.01487, 2.69823 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 66
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 67
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 1.0838, 2.82517 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 68
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 1.08411, 2.89619 ) 
+White Ball( 1.08411, 2.89619 )  
+frame num : 69
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.11878, 2.95725 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 70
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 4.98605, 3.2406 ) 
+White Ball( 1.11906, 3.0225 )  
+frame num : 71
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.13661, 3.08882 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 72
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.75152, 3.43026 )  
+frame num : 73
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.64912, 3.5316 )  
+frame num : 74
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 75
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 76
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.40131, 3.38885 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 77
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.43741, 3.46426 ) 
+White Ball( 4.27442, 3.90772 )  
+frame num : 78
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 4.15212, 3.89616 ) 
+White Ball( 4.20083, 3.89371 )  
+frame num : 79
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.07915, 3.81215 )  
+frame num : 80
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.4921, 3.63866 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 81
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 3.81682, 3.64318 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 82
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.79327, 3.6136 )  
+frame num : 83
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.62011, 3.81571 ) 
+White Ball( 3.69995, 3.57164 )  
+frame num : 84
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 3.5388, 3.49069 ) 
+White Ball( 1.67554, 3.88278 )  
+frame num : 85
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 1.7126, 3.90521 ) 
+White Ball( 3.47059, 3.45835 )  
+frame num : 86
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 3.35799, 3.40274 ) 
+White Ball( 3.38036, 3.40434 )  
+frame num : 87
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.29098, 3.34413 )  
+frame num : 88
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.20251, 3.29788 )  
+frame num : 89
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.0931, 3.23737 )  
+frame num : 90
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.96368, 3.20269 )  
+frame num : 91
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 2.85709, 3.14352 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 92
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.77271, 3.09276 )  
+frame num : 93
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.66838, 3.04135 )  
+frame num : 94
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 95
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.50389, 2.94231 )  
+frame num : 96
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.38255, 2.8788 )  
+frame num : 97
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 98
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.24295, 2.77727 )  
+frame num : 99
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.1058, 2.73398 )  
+frame num : 100
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.00909, 2.68649 )  
+frame num : 101
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 2.32443, 3.303 ) 
+White Ball( 1.93235, 2.61524 )  
+frame num : 102
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.8188, 2.57453 )  
+frame num : 103
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 2.38415, 3.25607 ) 
+White Ball( 1.76251, 2.53587 )  
+frame num : 104
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.65112, 2.4777 )  
+frame num : 105
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.57755, 2.40885 )  
+frame num : 106
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 2.50471, 3.13546 ) 
+White Ball( 1.4507, 2.37606 )  
+frame num : 107
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.34332, 2.30796 )  
+frame num : 108
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.25493, 2.25887 )  
+frame num : 109
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 2.54496, 3.02175 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 110
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 2.64754, 3.00128 ) 
+White Ball( 1.08094, 2.15632 )  
+frame num : 111
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.961448, 2.11461 )  
+frame num : 112
+Red Ball( 7.19038, 3.79217 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.893831, 2.0618 )  
+frame num : 113
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.843508, 2.02686 )  
+frame num : 114
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.727409, 1.96933 )  
+frame num : 115
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 2.75068, 2.83041 ) 
+White Ball( 0.629244, 1.92397 )  
+frame num : 116
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.484306, 1.86837 )  
+frame num : 117
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.404848, 1.81839 )  
+frame num : 118
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 2.96172, 2.74023 ) 
+White Ball( 0.357497, 1.77394 )  
+frame num : 119
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.00448, 2.70869 ) 
+White Ball( 0.263824, 1.72519 )  
+frame num : 120
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.02583, 2.66966 ) 
+White Ball( 0.155973, 1.67185 )  
+frame num : 121
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.0906, 2.64516 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 122
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.11219, 2.61253 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 123
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 124
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.15549, 2.54035 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 125
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.22119, 2.51521 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 126
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.324276, 1.32307 )  
+frame num : 127
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.371016, 1.26982 )  
+frame num : 128
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.417969, 1.19921 )  
+frame num : 129
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.35369, 2.38338 ) 
+White Ball( 0.481193, 1.1443 )  
+frame num : 130
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 131
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.593083, 1.04569 )  
+frame num : 132
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.641479, 0.990645 )  
+frame num : 133
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.690077, 0.912144 )  
+frame num : 134
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.722611, 0.851818 )  
+frame num : 135
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.4879, 2.1952 ) 
+White Ball( 0.771816, 0.795707 )  
+frame num : 136
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.804716, 0.740643 )  
+frame num : 137
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.57875, 2.13427 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 138
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.00592, 0.611672 )  
+frame num : 139
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 0.988745, 0.572003 )  
+frame num : 140
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.03963, 0.51405 )  
+frame num : 141
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.76318, 2.01751 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 142
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.19441, 0.373742 )  
+frame num : 143
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.83318, 1.94801 ) 
+White Ball( 1.24674, 0.344319 )  
+frame num : 144
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.85655, 1.90623 ) 
+White Ball( 1.29928, 0.284694 )  
+frame num : 145
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.28137, 0.220665 )  
+frame num : 146
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 3.92731, 1.84989 ) 
+White Ball( 1.33417, 0.166525 )  
+frame num : 147
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.3873, 0.112034 )  
+frame num : 148
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.45905, 0.121665 )  
+frame num : 149
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 150
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 4.0704, 1.72892 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 151
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 4.09446, 1.70741 ) 
+White Ball( 1.62323, 0.249237 )  
+frame num : 152
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.60498, 0.269588 )  
+frame num : 153
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.71579, 0.306844 )  
+frame num : 154
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.75309, 0.327598 )  
+frame num : 155
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.79061, 0.360809 )  
+frame num : 156
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 4.26455, 1.55531 ) 
+White Ball( 1.84712, 0.392293 )  
+frame num : 157
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 4.28907, 1.52626 ) 
+White Ball( 1.90398, 0.417764 )  
+frame num : 158
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 4.31368, 1.50424 ) 
+White Ball( 4.31368, 1.50424 )  
+frame num : 159
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 1.99979, 0.502323 )  
+frame num : 160
+Red Ball( 7.19055, 3.83293 )  
+Yellow Ball( 4.38789, 1.43786 ) 
+White Ball( 2.0191, 0.525614 )  
+frame num : 161
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 4.38783, 1.4236 ) 
+White Ball( 2.11602, 0.567247 )  
+frame num : 162
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 4.46273, 1.38528 ) 
+White Ball( 2.15508, 0.58277 )  
+frame num : 163
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 4.43756, 1.36472 ) 
+White Ball( 2.23375, 0.614026 )  
+frame num : 164
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.27344, 0.648838 )  
+frame num : 165
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.29346, 0.691766 )  
+frame num : 166
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.35338, 0.725326 )  
+frame num : 167
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.37356, 0.762145 )  
+frame num : 168
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.45415, 0.775351 )  
+frame num : 169
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 4.63932, 1.19117 ) 
+White Ball( 2.47456, 0.81244 )  
+frame num : 170
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 2.49496, 0.836735 ) 
+White Ball( 2.51529, 0.835299 )  
+frame num : 171
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 4.71609, 1.12969 ) 
+White Ball( 2.55636, 0.890574 )  
+frame num : 172
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 4.74177, 1.09941 ) 
+White Ball( 2.57692, 0.908603 )  
+frame num : 173
+Red Ball( 7.25583, 3.81355 )  
+Yellow Ball( 4.76752, 1.06905 ) 
+White Ball( 2.61816, 0.938304 )  
+frame num : 174
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 4.79337, 1.04589 ) 
+White Ball( 2.70116, 0.985092 )  
+frame num : 175
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 4.79327, 1.02405 ) 
+White Ball( 2.74293, 1.00212 )  
+frame num : 176
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 4.87137, 0.990662 ) 
+White Ball( 2.78495, 1.03232 )  
+frame num : 177
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 4.89749, 0.967277 ) 
+White Ball( 2.82716, 1.06266 )  
+frame num : 178
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.86955, 1.08657 )  
+frame num : 179
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.89093, 1.1249 )  
+frame num : 180
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 2.93365, 1.15564 )  
+frame num : 181
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.00263, 0.865762 ) 
+White Ball( 2.998, 1.17885 )  
+frame num : 182
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.04123, 1.2099 )  
+frame num : 183
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.21685, 0.800769 ) 
+White Ball( 3.12819, 1.24576 )  
+frame num : 184
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.10894, 0.777962 ) 
+White Ball( 3.15016, 1.27816 )  
+frame num : 185
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.10881, 0.748375 ) 
+White Ball( 3.21607, 1.30208 )  
+frame num : 186
+Red Ball( 7.22319, 3.8355 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.21618, 1.32889 )  
+frame num : 187
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.16238, 0.700338 ) 
+White Ball( 3.28257, 1.35309 )  
+frame num : 188
+Red Ball( 7.09313, 3.80903 )  
+Yellow Ball( 5.21632, 0.674352 ) 
+White Ball( 3.30494, 1.39262 )  
+frame num : 189
+Red Ball( 7.32149, 3.79406 )  
+Yellow Ball( 5.24336, 0.650138 ) 
+White Ball( 3.39448, 1.43667 )  
+frame num : 190
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 5.27046, 0.625859 ) 
+White Ball( 3.43962, 1.46903 )  
+frame num : 191
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 5.29764, 0.601515 ) 
+White Ball( 3.46228, 1.48866 )  
+frame num : 192
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 5.29752, 0.57165 ) 
+White Ball( 3.485, 1.50835 )  
+frame num : 193
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 5.35219, 0.545144 ) 
+White Ball( 3.57624, 1.53972 )  
+frame num : 194
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 5.40718, 0.526002 ) 
+White Ball( 3.57636, 1.56706 )  
+frame num : 195
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.6685, 1.59888 )  
+frame num : 196
+Red Ball( 7.19042, 3.80032 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 3.69178, 1.63267 )  
+frame num : 197
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.43448, 0.441226 ) 
+White Ball( 3.73838, 1.66603 )  
+frame num : 198
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 5.48992, 0.421725 ) 
+White Ball( 3.73847, 1.68671 )  
+frame num : 199
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 5.51766, 0.389293 ) 
+White Ball( 3.78527, 1.71338 )  
+frame num : 200
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.57356, 0.369571 ) 
+White Ball( 3.87948, 1.74629 )  
+frame num : 201
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.54541, 0.341658 ) 
+White Ball( 3.8796, 1.77407 )  
+frame num : 202
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.60143, 0.314202 ) 
+White Ball( 3.9271, 1.80116 )  
+frame num : 203
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.65775, 0.286596 ) 
+White Ball( 3.951, 1.82869 )  
+frame num : 204
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.65765, 0.2638 ) 
+White Ball( 4.04688, 1.86247 )  
+frame num : 205
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.07105, 1.88324 )  
+frame num : 206
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.65749, 0.225806 ) 
+White Ball( 4.0712, 1.91831 )  
+frame num : 207
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.11967, 1.94604 )  
+frame num : 208
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.16838, 1.97391 )  
+frame num : 209
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.77096, 0.146885 ) 
+White Ball( 4.24182, 1.99474 )  
+frame num : 210
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.82825, 0.126253 ) 
+White Ball( 4.26652, 2.02298 )  
+frame num : 211
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.79944, 0.105979 ) 
+White Ball( 4.31594, 2.04415 )  
+frame num : 212
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.34086, 2.07967 )  
+frame num : 213
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.88591, 0.120871 ) 
+White Ball( 4.41568, 2.11538 )  
+frame num : 214
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.91489, 0.125863 ) 
+White Ball( 4.41577, 2.1368 )  
+frame num : 215
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.49117, 2.17287 )  
+frame num : 216
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.94405, 0.153979 ) 
+White Ball( 4.51648, 2.19452 )  
+frame num : 217
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.94408, 0.161683 ) 
+White Ball( 4.56719, 2.21641 )  
+frame num : 218
+Red Ball( 7.19052, 3.82478 )  
+Yellow Ball( 5.94414, 0.177091 ) 
+White Ball( 4.54197, 2.24498 )  
+frame num : 219
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 5.94418, 0.184794 ) 
+White Ball( 4.64386, 2.27474 )  
+frame num : 220
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 6.00254, 0.194996 ) 
+White Ball( 4.69523, 2.29698 )  
+frame num : 221
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.69538, 2.33319 )  
+frame num : 222
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.79881, 2.34908 )  
+frame num : 223
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 6.0614, 0.243987 ) 
+White Ball( 4.82495, 2.3786 )  
+frame num : 224
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.85115, 2.40819 )  
+frame num : 225
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 4.90361, 2.43101 )  
+frame num : 226
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 6.06149, 0.267227 ) 
+White Ball( 4.95634, 2.45395 )  
+frame num : 227
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 6.12051, 0.277715 ) 
+White Ball( 4.98292, 2.49119 )  
+frame num : 228
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.03607, 2.51438 )  
+frame num : 229
+Red Ball( 6.06165, 0.30596 )  
+Yellow Ball( 6.15024, 0.306318 ) 
+White Ball( 5.03619, 2.54385 )  
+frame num : 230
+Red Ball( 7.22316, 3.82734 )  
+Yellow Ball( 6.17996, 0.311632 ) 
+White Ball( 5.06292, 2.56659 )  
+frame num : 231
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.18005, 0.335001 ) 
+White Ball( 5.14335, 2.59076 )  
+frame num : 232
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.18009, 0.342791 ) 
+White Ball( 5.1435, 2.62779 )  
+frame num : 233
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.20985, 0.340362 ) 
+White Ball( 5.22454, 2.64486 )  
+frame num : 234
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.23977, 0.35355 ) 
+White Ball( 5.25183, 2.68285 )  
+frame num : 235
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.30638, 2.6994 )  
+frame num : 236
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.27923, 2.72839 )  
+frame num : 237
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.29989, 0.38787 ) 
+White Ball( 5.36136, 2.74598 )  
+frame num : 238
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.41656, 2.7778 )  
+frame num : 239
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.2699, 0.398065 ) 
+White Ball( 5.44431, 2.80129 )  
+frame num : 240
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.49996, 2.83339 )  
+frame num : 241
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.36037, 0.430239 ) 
+White Ball( 5.50008, 2.86354 )  
+frame num : 242
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.36047, 0.453806 ) 
+White Ball( 5.55594, 2.87323 )  
+frame num : 243
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.36047, 0.453806 ) 
+White Ball( 5.58407, 2.89701 )  
+frame num : 244
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.39087, 0.482981 ) 
+White Ball( 5.64048, 2.92959 )  
+frame num : 245
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.69717, 2.95474 )  
+frame num : 246
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.72571, 2.98641 )  
+frame num : 247
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.4213, 0.496482 ) 
+White Ball( 5.75426, 3.00291 )  
+frame num : 248
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.78293, 3.02709 )  
+frame num : 249
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 5.78302, 3.05001 )  
+frame num : 250
+Red Ball( 7.28866, 3.8161 )  
+Yellow Ball( 6.48238, 0.515699 ) 
+White Ball( 5.78312, 3.07293 )  
+frame num : 251
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 6.48251, 0.547299 ) 
+White Ball( 5.86939, 3.10005 )  
+frame num : 252
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 6.48251, 0.547299 ) 
+White Ball( 6.48251, 0.547299 )  
+frame num : 253
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 6.51316, 0.553038 ) 
+White Ball( 5.98561, 3.15199 )  
+frame num : 254
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 6.5439, 0.558793 ) 
+White Ball( 5.9857, 3.17513 )  
+frame num : 255
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 6.04429, 3.20138 )  
+frame num : 256
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 6.04436, 3.21685 )  
+frame num : 257
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 6.54406, 0.598406 ) 
+White Ball( 6.10327, 3.24329 )  
+frame num : 258
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 6.6057, 0.586242 ) 
+White Ball( 6.10337, 3.26656 )  
+frame num : 259
+Red Ball( 7.12559, 3.83594 )  
+Yellow Ball( 6.60577, 0.602132 ) 
+White Ball( 6.19228, 3.28712 )  
+frame num : 260
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.6058, 0.610077 ) 
+White Ball( 6.22216, 3.31221 )  
+frame num : 261
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.6368, 0.615938 ) 
+White Ball( 6.22226, 3.33561 )  
+frame num : 262
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.63687, 0.631851 ) 
+White Ball( 6.25222, 3.3608 )  
+frame num : 263
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.6369, 0.639808 ) 
+White Ball( 6.34242, 3.38975 )  
+frame num : 264
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.63694, 0.647764 ) 
+White Ball( 6.37269, 3.40731 )  
+frame num : 265
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 14.8458, 8.92853 ) 
+White Ball( 6.43345, 3.4347 )  
+frame num : 266
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.66809, 0.669623 ) 
+White Ball( 6.43355, 3.45833 )  
+frame num : 267
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.66813, 0.677591 ) 
+White Ball( 6.46407, 3.47606 )  
+frame num : 268
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.6061, 0.681584 ) 
+White Ball( 6.49472, 3.50174 )  
+frame num : 269
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.73058, 0.689557 ) 
+White Ball( 6.52542, 3.51958 )  
+frame num : 270
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.69937, 0.699524 ) 
+White Ball( 6.58705, 3.54748 )  
+frame num : 271
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.73064, 0.705538 ) 
+White Ball( 6.58711, 3.56335 )  
+frame num : 272
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.76204, 0.719572 ) 
+White Ball( 6.64913, 3.59941 )  
+frame num : 273
+Red Ball( 7.2559, 3.82991 )  
+Yellow Ball( 6.76204, 0.719572 ) 
+White Ball( 6.68023, 3.60955 )  
+frame num : 274
+Red Ball( 7.25586, 3.82173 )  
+Yellow Ball( 6.71146, 3.6277 ) 
+White Ball( 6.71153, 3.64366 )  
+frame num : 275
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.7621, 0.735577 ) 
+White Ball( 6.71156, 3.65163 )  
+frame num : 276
+Red Ball( 7.28869, 3.82429 )  
+Yellow Ball( 6.79355, 0.74166 ) 
+White Ball( 6.74294, 3.68585 )  
+frame num : 277
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 6.82509, 0.747761 ) 
+White Ball( 6.80575, 3.69849 )  
+frame num : 278
+Red Ball( 7.12562, 3.84407 )  
+Yellow Ball( 6.83741, 3.73292 ) 
+White Ball( 6.83741, 3.73292 )  
+frame num : 279
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 6.90079, 3.75379 ) 
+White Ball( 6.90079, 3.75379 )  
+frame num : 280
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 6.85683, 0.77799 ) 
+White Ball( 6.90089, 3.77793 )  
+frame num : 281
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 6.82526, 0.787887 ) 
+White Ball( 14.8458, 8.92853 )  
+frame num : 282
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 7.19052, 3.82478 ) 
+White Ball( 6.96474, 3.82321 )  
+frame num : 283
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 7.28876, 3.84067 ) 
+White Ball( 6.79382, 0.80577 )  
+frame num : 284
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 6.85696, 0.810137 ) 
+White Ball( 7.02894, 3.86065 )  
+frame num : 285
+Red Ball( 7.0612, 3.88756 )  
+Yellow Ball( 6.79385, 0.813783 ) 
+White Ball( 7.09347, 3.8902 )  
+frame num : 286
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 7.12589, 3.9091 ) 
+White Ball( 7.12589, 3.9091 )  
+frame num : 287
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 6.82542, 0.828013 ) 
+White Ball( 7.15837, 3.91992 )  
+frame num : 288
+Red Ball( 7.15834, 3.91178 )  
+Yellow Ball( 7.15834, 3.91178 ) 
+White Ball( 7.15834, 3.91178 )  
+frame num : 289
+Red Ball( 6.79398, 0.845838 )  
+Yellow Ball( 7.19089, 3.91446 ) 
+White Ball( 7.19092, 3.92262 )  
+frame num : 290
+Red Ball( 14.8458, 8.92853 )  
+Yellow Ball( 7.15831, 3.90364 ) 
+White Ball( 7.15831, 3.90364 )  
+frame num : 291
+Red Ball( 7.32152, 3.80226 )  
+Yellow Ball( 7.15831, 3.90364 ) 
+White Ball( 7.15834, 3.91178 )  
+frame num : 292
+Red Ball( 7.15831, 3.90364 )  
+Yellow Ball( 6.92063, 0.85483 ) 
+White Ball( 7.19085, 3.90631 )  
+frame num : 293
+Red Ball( 7.15834, 3.91178 )  
+Yellow Ball( 6.98454, 0.867449 ) 
+White Ball( 7.15831, 3.90364 )  
+frame num : 294
+Red Ball( 7.19089, 3.91446 )  
+Yellow Ball( 7.19085, 3.90631 ) 
+White Ball( 7.19089, 3.91446 )  
+frame num : 295
+Red Ball( 7.35435, 3.75552 )  
+Yellow Ball( 6.9846, 0.883615 ) 
+White Ball( 7.25623, 3.91168 )  
+frame num : 296
+Red Ball( 7.35435, 3.75552 )  
+Yellow Ball( 7.19089, 3.91446 ) 
+White Ball( 7.19089, 3.91446 )  
+frame num : 297
+Red Ball( 7.38744, 3.74977 )  
+Yellow Ball( 6.9846, 0.883615 ) 
+White Ball( 7.19085, 3.90631 )  
+frame num : 298
+Red Ball( 7.42062, 3.74401 )  
+Yellow Ball( 7.0167, 0.889976 ) 
+White Ball( 7.19085, 3.90631 )  
+frame num : 299
+Red Ball( 7.45394, 3.74648 )  
+Yellow Ball( 7.01673, 0.898071 ) 
+White Ball( 7.19085, 3.90631 )  
+frame num : 300
+Red Ball( 7.52085, 3.74316 )  
+Yellow Ball( 7.15827, 3.8955 ) 
+White Ball( 7.19085, 3.90631 )  

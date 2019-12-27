@@ -1,0 +1,1200 @@
+frame num : 1
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 2
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 3
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 4
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 5
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 6
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 7
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 8
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 9
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 10
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 11
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 12
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 13
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 554.5, 396.5 )  /  radius : 13.1
+frame num : 14
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 667.5, 386.5 ) /  radius : 10.9
+White Ball( 0, 0 )  /  radius : 0
+frame num : 15
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 668.5, 386.5 ) /  radius : 10.9
+White Ball( 0, 0 )  /  radius : 0
+frame num : 16
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 17
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 18
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 19
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 20
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 729.5, 333.5 )  /  radius : 10.6
+frame num : 21
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 746.5, 322.5 )  /  radius : 11.8
+frame num : 22
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 23
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 771.5, 300.5 )  /  radius : 11.8
+frame num : 24
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 25
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 26
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 27
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 28
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 841.5, 269.5 )  /  radius : 12.7
+frame num : 29
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 30
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 31
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 32
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 33
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 881.5, 232.5 )  /  radius : 15.4
+frame num : 34
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 869.5, 225.5 )  /  radius : 10.6
+frame num : 35
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 858.5, 218.5 )  /  radius : 10.6
+frame num : 36
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 850.5, 483.5 ) /  radius : 12
+White Ball( 850.5, 483.5 )  /  radius : 11
+frame num : 37
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 837.5, 488.5 ) /  radius : 14.3
+White Ball( 836.5, 206.5 )  /  radius : 10.6
+frame num : 38
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 826.5, 198.5 )  /  radius : 10.6
+frame num : 39
+Red Ball( 413.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 40
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 809.5, 186.5 )  /  radius : 10.6
+frame num : 41
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 42
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 43
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 784.5, 168.5 )  /  radius : 15.4
+frame num : 44
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 776.5, 163.5 )  /  radius : 10.9
+frame num : 45
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 46
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 47
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 718.5, 475.5 )  /  radius : 11
+frame num : 48
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 739.5, 166.5 )  /  radius : 15.4
+frame num : 49
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 726.5, 176.5 )  /  radius : 15.4
+frame num : 50
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 711.5, 174.5 )  /  radius : 14.3
+frame num : 51
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 702.5, 181.5 )  /  radius : 11.8
+frame num : 52
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 53
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 54
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 55
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 626.5, 457.5 ) /  radius : 10.9
+White Ball( 0, 0 )  /  radius : 0
+frame num : 56
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 615.5, 455.5 ) /  radius : 10.6
+White Ball( 0, 0 )  /  radius : 0
+frame num : 57
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 604.5, 452.5 ) /  radius : 10.6
+White Ball( 632.5, 202.5 )  /  radius : 15.4
+frame num : 58
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 592.5, 453.5 ) /  radius : 13.2
+White Ball( 0, 0 )  /  radius : 0
+frame num : 59
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 582.5, 449.5 ) /  radius : 11
+White Ball( 0, 0 )  /  radius : 0
+frame num : 60
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 571.5, 449.5 ) /  radius : 13
+White Ball( 596.5, 216.5 )  /  radius : 13
+frame num : 61
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 561.5, 444.5 ) /  radius : 10.6
+White Ball( 560.5, 446.5 )  /  radius : 12
+frame num : 62
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 548.5, 442.5 ) /  radius : 12
+White Ball( 568.5, 221.5 )  /  radius : 10.6
+frame num : 63
+Red Ball( 415.5, 174.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 64
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 65
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 520.5, 436.5 ) /  radius : 14.2
+White Ball( 0, 0 )  /  radius : 0
+frame num : 66
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 67
+Red Ball( 412.5, 172.5 )  /  radius : 10.9
+Yellow Ball( 499.5, 432.5 ) /  radius : 10.9
+White Ball( 0, 0 )  /  radius : 0
+frame num : 68
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 487.5, 432.5 ) /  radius : 13.2
+White Ball( 487.5, 432.5 )  /  radius : 13.2
+frame num : 69
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 477.5, 430.5 ) /  radius : 13.2
+White Ball( 0, 0 )  /  radius : 0
+frame num : 70
+Red Ball( 411.5, 172.5 )  /  radius : 11
+Yellow Ball( 467.5, 249.5 ) /  radius : 11.8
+White Ball( 466.5, 430.5 )  /  radius : 14.3
+frame num : 71
+Red Ball( 411.5, 172.5 )  /  radius : 11
+Yellow Ball( 455.5, 429.5 ) /  radius : 15.4
+White Ball( 0, 0 )  /  radius : 0
+frame num : 72
+Red Ball( 411.5, 172.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 439.5, 258.5 )  /  radius : 10.5
+frame num : 73
+Red Ball( 412.5, 172.5 )  /  radius : 10.9
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 424.5, 262.5 )  /  radius : 10.6
+frame num : 74
+Red Ball( 411.5, 172.5 )  /  radius : 12.1
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 75
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 76
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 408.5, 414.5 ) /  radius : 11
+White Ball( 0, 0 )  /  radius : 0
+frame num : 77
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 396.5, 412.5 ) /  radius : 11
+White Ball( 367.5, 277.5 )  /  radius : 10.9
+frame num : 78
+Red Ball( 411.5, 172.5 )  /  radius : 11
+Yellow Ball( 367.5, 282.5 ) /  radius : 10.6
+White Ball( 368.5, 280.5 )  /  radius : 15.4
+frame num : 79
+Red Ball( 411.5, 172.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 378.5, 285.5 )  /  radius : 10.9
+frame num : 80
+Red Ball( 411.5, 172.5 )  /  radius : 11
+Yellow Ball( 368.5, 409.5 ) /  radius : 13.2
+White Ball( 0, 0 )  /  radius : 0
+frame num : 81
+Red Ball( 411.5, 172.5 )  /  radius : 11
+Yellow Ball( 399.5, 296.5 ) /  radius : 13.1
+White Ball( 0, 0 )  /  radius : 0
+frame num : 82
+Red Ball( 411.5, 172.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 403.5, 297.5 )  /  radius : 11.5
+frame num : 83
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 341.5, 402.5 ) /  radius : 10.6
+White Ball( 408.5, 301.5 )  /  radius : 10.6
+frame num : 84
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 418.5, 308.5 ) /  radius : 13
+White Ball( 331.5, 399.5 )  /  radius : 11
+frame num : 85
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 328.5, 397.5 ) /  radius : 10.9
+White Ball( 422.5, 311.5 )  /  radius : 11.8
+frame num : 86
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 429.5, 316.5 ) /  radius : 15.4
+White Ball( 429.5, 315.5 )  /  radius : 10.9
+frame num : 87
+Red Ball( 411.5, 174.5 )  /  radius : 13.1
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 437.5, 319.5 )  /  radius : 10.6
+frame num : 88
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 443.5, 323.5 )  /  radius : 11.6
+frame num : 89
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 451.5, 328.5 )  /  radius : 10.6
+frame num : 90
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 455.5, 334.5 )  /  radius : 12
+frame num : 91
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 463.5, 339.5 ) /  radius : 15.4
+White Ball( 0, 0 )  /  radius : 0
+frame num : 92
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 470.5, 343.5 )  /  radius : 11.8
+frame num : 93
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 477.5, 348.5 )  /  radius : 12
+frame num : 94
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 95
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 491.5, 356.5 )  /  radius : 11
+frame num : 96
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 500.5, 362.5 )  /  radius : 13
+frame num : 97
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 98
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 515.5, 369.5 )  /  radius : 13.1
+frame num : 99
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 521.5, 376.5 )  /  radius : 12.1
+frame num : 100
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 528.5, 381.5 )  /  radius : 11.8
+frame num : 101
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 433.5, 365.5 ) /  radius : 10.9
+White Ball( 539.5, 385.5 )  /  radius : 11.8
+frame num : 102
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 545.5, 391.5 )  /  radius : 13.1
+frame num : 103
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 441.5, 362.5 ) /  radius : 10.6
+White Ball( 551.5, 394.5 )  /  radius : 10.6
+frame num : 104
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 560.5, 400.5 )  /  radius : 11.8
+frame num : 105
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 571.5, 404.5 )  /  radius : 11.8
+frame num : 106
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 461.5, 356.5 ) /  radius : 11
+White Ball( 576.5, 411.5 )  /  radius : 13.1
+frame num : 107
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 587.5, 417.5 )  /  radius : 12.1
+frame num : 108
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 595.5, 422.5 )  /  radius : 12.1
+frame num : 109
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 479.5, 354.5 ) /  radius : 15.4
+White Ball( 0, 0 )  /  radius : 0
+frame num : 110
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 483.5, 349.5 ) /  radius : 11.8
+White Ball( 612.5, 432.5 )  /  radius : 12.1
+frame num : 111
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 619.5, 439.5 )  /  radius : 14.1
+frame num : 112
+Red Ball( 415.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 628.5, 443.5 )  /  radius : 13.1
+frame num : 113
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 634.5, 446.5 )  /  radius : 11
+frame num : 114
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 644.5, 453.5 )  /  radius : 13.1
+frame num : 115
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 510.5, 344.5 ) /  radius : 15.4
+White Ball( 652.5, 459.5 )  /  radius : 13
+frame num : 116
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 662.5, 468.5 )  /  radius : 15.4
+frame num : 117
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 671.5, 473.5 )  /  radius : 15.4
+frame num : 118
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 525.5, 334.5 ) /  radius : 10.6
+White Ball( 679.5, 476.5 )  /  radius : 12.1
+frame num : 119
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 530.5, 332.5 ) /  radius : 11
+White Ball( 688.5, 482.5 )  /  radius : 13
+frame num : 120
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 536.5, 331.5 ) /  radius : 11.8
+White Ball( 698.5, 489.5 )  /  radius : 14.2
+frame num : 121
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 540.5, 328.5 ) /  radius : 14.3
+White Ball( 0, 0 )  /  radius : 0
+frame num : 122
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 545.5, 327.5 ) /  radius : 10.9
+White Ball( 0, 0 )  /  radius : 0
+frame num : 123
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 124
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 556.5, 325.5 ) /  radius : 11.4
+White Ball( 0, 0 )  /  radius : 0
+frame num : 125
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 560.5, 322.5 ) /  radius : 11.8
+White Ball( 0, 0 )  /  radius : 0
+frame num : 126
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 759.5, 478.5 )  /  radius : 13.2
+frame num : 127
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 768.5, 475.5 )  /  radius : 14.3
+frame num : 128
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 780.5, 472.5 )  /  radius : 14.2
+frame num : 129
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 580.5, 316.5 ) /  radius : 10.9
+White Ball( 789.5, 468.5 )  /  radius : 14.3
+frame num : 130
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 131
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 805.5, 461.5 )  /  radius : 11
+frame num : 132
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 814.5, 458.5 )  /  radius : 11
+frame num : 133
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 827.5, 455.5 )  /  radius : 13.2
+frame num : 134
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 837.5, 453.5 )  /  radius : 14.3
+frame num : 135
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 608.5, 310.5 ) /  radius : 11
+White Ball( 846.5, 450.5 )  /  radius : 14.3
+frame num : 136
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 855.5, 448.5 )  /  radius : 15.4
+frame num : 137
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 617.5, 306.5 ) /  radius : 11.8
+White Ball( 0, 0 )  /  radius : 0
+frame num : 138
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 874.5, 436.5 )  /  radius : 11
+frame num : 139
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 881.5, 437.5 )  /  radius : 13.2
+frame num : 140
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 890.5, 434.5 )  /  radius : 13.2
+frame num : 141
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 634.5, 298.5 ) /  radius : 10.5
+White Ball( 0, 0 )  /  radius : 0
+frame num : 142
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 911.5, 425.5 )  /  radius : 10.6
+frame num : 143
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 644.5, 295.5 ) /  radius : 11.8
+White Ball( 915.5, 422.5 )  /  radius : 13
+frame num : 144
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 650.5, 294.5 ) /  radius : 11
+White Ball( 924.5, 419.5 )  /  radius : 13.2
+frame num : 145
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 935.5, 420.5 )  /  radius : 14.2
+frame num : 146
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 658.5, 291.5 ) /  radius : 10.6
+White Ball( 943.5, 417.5 )  /  radius : 14.2
+frame num : 147
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 951.5, 414.5 )  /  radius : 13.2
+frame num : 148
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 948.5, 410.5 )  /  radius : 11.8
+frame num : 149
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 0, 0 )  /  radius : 0
+frame num : 150
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 675.5, 285.5 ) /  radius : 11
+White Ball( 0, 0 )  /  radius : 0
+frame num : 151
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 678.5, 284.5 ) /  radius : 11.8
+White Ball( 924.5, 401.5 )  /  radius : 10.6
+frame num : 152
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 921.5, 402.5 )  /  radius : 14.3
+frame num : 153
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 913.5, 396.5 )  /  radius : 11.8
+frame num : 154
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 909.5, 394.5 )  /  radius : 11
+frame num : 155
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 903.5, 392.5 )  /  radius : 13
+frame num : 156
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 699.5, 277.5 ) /  radius : 10.6
+White Ball( 897.5, 389.5 )  /  radius : 13
+frame num : 157
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 703.5, 276.5 ) /  radius : 10.6
+White Ball( 892.5, 386.5 )  /  radius : 11.8
+frame num : 158
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 706.5, 275.5 ) /  radius : 11
+White Ball( 706.5, 275.5 )  /  radius : 11
+frame num : 159
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 877.5, 381.5 )  /  radius : 11.8
+frame num : 160
+Red Ball( 410.5, 174.5 )  /  radius : 12.1
+Yellow Ball( 715.5, 272.5 ) /  radius : 11
+White Ball( 873.5, 380.5 )  /  radius : 13
+frame num : 161
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 717.5, 272.5 ) /  radius : 11.8
+White Ball( 865.5, 375.5 )  /  radius : 10.6
+frame num : 162
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 722.5, 269.5 ) /  radius : 11.8
+White Ball( 862.5, 373.5 )  /  radius : 10.9
+frame num : 163
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 725.5, 270.5 ) /  radius : 11.8
+White Ball( 856.5, 369.5 )  /  radius : 13.2
+frame num : 164
+Red Ball( 414.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 850.5, 367.5 )  /  radius : 15.4
+frame num : 165
+Red Ball( 414.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 843.5, 366.5 )  /  radius : 11.8
+frame num : 166
+Red Ball( 414.5, 174.5 )  /  radius : 13.2
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 837.5, 363.5 )  /  radius : 11.8
+frame num : 167
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 831.5, 362.5 )  /  radius : 10.6
+frame num : 168
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 828.5, 358.5 )  /  radius : 11.8
+frame num : 169
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 748.5, 262.5 ) /  radius : 10.6
+White Ball( 822.5, 357.5 )  /  radius : 12.1
+frame num : 170
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 818.5, 356.5 ) /  radius : 12.1
+White Ball( 818.5, 355.5 )  /  radius : 11.8
+frame num : 171
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 756.5, 259.5 ) /  radius : 10.6
+White Ball( 809.5, 353.5 )  /  radius : 10.6
+frame num : 172
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 760.5, 258.5 ) /  radius : 10.6
+White Ball( 806.5, 352.5 )  /  radius : 13.1
+frame num : 173
+Red Ball( 413.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 764.5, 257.5 ) /  radius : 11.8
+White Ball( 801.5, 350.5 )  /  radius : 13
+frame num : 174
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 767.5, 256.5 ) /  radius : 11.8
+White Ball( 793.5, 346.5 )  /  radius : 10.6
+frame num : 175
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 770.5, 256.5 ) /  radius : 11.6
+White Ball( 790.5, 344.5 )  /  radius : 12.1
+frame num : 176
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 774.5, 253.5 ) /  radius : 10.6
+White Ball( 785.5, 342.5 )  /  radius : 11.8
+frame num : 177
+Red Ball( 414.5, 174.5 )  /  radius : 14.3
+Yellow Ball( 777.5, 252.5 ) /  radius : 10.6
+White Ball( 780.5, 340.5 )  /  radius : 12.8
+frame num : 178
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 776.5, 338.5 )  /  radius : 13
+frame num : 179
+Red Ball( 414.5, 174.5 )  /  radius : 14.3
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 770.5, 337.5 )  /  radius : 13
+frame num : 180
+Red Ball( 414.5, 174.5 )  /  radius : 14.3
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 765.5, 335.5 )  /  radius : 13
+frame num : 181
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 790.5, 248.5 ) /  radius : 10.6
+White Ball( 761.5, 332.5 )  /  radius : 13
+frame num : 182
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 756.5, 330.5 )  /  radius : 13
+frame num : 183
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 797.5, 240.5 ) /  radius : 11
+White Ball( 750.5, 326.5 )  /  radius : 11.8
+frame num : 184
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 801.5, 244.5 ) /  radius : 15.4
+White Ball( 745.5, 325.5 )  /  radius : 11.8
+frame num : 185
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 805.5, 244.5 ) /  radius : 15.4
+White Ball( 741.5, 322.5 )  /  radius : 10.9
+frame num : 186
+Red Ball( 410.5, 173.5 )  /  radius : 11.8
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 737.5, 322.5 )  /  radius : 12.7
+frame num : 187
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 811.5, 242.5 ) /  radius : 15.4
+White Ball( 733.5, 319.5 )  /  radius : 11.8
+frame num : 188
+Red Ball( 412.5, 177.5 )  /  radius : 11.8
+Yellow Ball( 814.5, 240.5 ) /  radius : 10.6
+White Ball( 727.5, 318.5 )  /  radius : 13
+frame num : 189
+Red Ball( 416.5, 170.5 )  /  radius : 13.2
+Yellow Ball( 817.5, 239.5 ) /  radius : 10.6
+White Ball( 720.5, 314.5 )  /  radius : 10.6
+frame num : 190
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 820.5, 238.5 ) /  radius : 10.6
+White Ball( 715.5, 312.5 )  /  radius : 10.6
+frame num : 191
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 823.5, 237.5 ) /  radius : 10.6
+White Ball( 712.5, 311.5 )  /  radius : 11.8
+frame num : 192
+Red Ball( 414.5, 174.5 )  /  radius : 14.3
+Yellow Ball( 827.5, 237.5 ) /  radius : 11.3
+White Ball( 709.5, 310.5 )  /  radius : 11.6
+frame num : 193
+Red Ball( 414.5, 174.5 )  /  radius : 14.3
+Yellow Ball( 830.5, 235.5 ) /  radius : 10.6
+White Ball( 704.5, 306.5 )  /  radius : 10.35
+frame num : 194
+Red Ball( 414.5, 174.5 )  /  radius : 14.3
+Yellow Ball( 832.5, 233.5 ) /  radius : 10.5
+White Ball( 700.5, 306.5 )  /  radius : 11.6
+frame num : 195
+Red Ball( 414.5, 174.5 )  /  radius : 14.3
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 695.5, 302.5 )  /  radius : 10.6
+frame num : 196
+Red Ball( 414.5, 174.5 )  /  radius : 14.3
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 690.5, 301.5 )  /  radius : 11.6
+frame num : 197
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 843.5, 232.5 ) /  radius : 11
+White Ball( 685.5, 299.5 )  /  radius : 10.6
+frame num : 198
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 845.5, 230.5 ) /  radius : 10.5
+White Ball( 682.5, 299.5 )  /  radius : 11.6
+frame num : 199
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 849.5, 229.5 ) /  radius : 10.5
+White Ball( 678.5, 297.5 )  /  radius : 11.8
+frame num : 200
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 851.5, 227.5 ) /  radius : 10.5
+White Ball( 673.5, 293.5 )  /  radius : 10.6
+frame num : 201
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 855.5, 228.5 ) /  radius : 11.8
+White Ball( 669.5, 293.5 )  /  radius : 11.6
+frame num : 202
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 858.5, 226.5 ) /  radius : 10.6
+White Ball( 665.5, 291.5 )  /  radius : 11.6
+frame num : 203
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 861.5, 224.5 ) /  radius : 15.4
+White Ball( 661.5, 290.5 )  /  radius : 12.7
+frame num : 204
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 864.5, 224.5 ) /  radius : 10.6
+White Ball( 656.5, 286.5 )  /  radius : 10.35
+frame num : 205
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 653.5, 285.5 )  /  radius : 11.6
+frame num : 206
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 869.5, 224.5 ) /  radius : 11.8
+White Ball( 648.5, 285.5 )  /  radius : 12.5
+frame num : 207
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 644.5, 283.5 )  /  radius : 13
+frame num : 208
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 640.5, 281.5 )  /  radius : 12.4
+frame num : 209
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 878.5, 220.5 ) /  radius : 11
+White Ball( 637.5, 278.5 )  /  radius : 10.6
+frame num : 210
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 880.5, 218.5 ) /  radius : 15.4
+White Ball( 633.5, 277.5 )  /  radius : 11.6
+frame num : 211
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 883.5, 219.5 ) /  radius : 10.9
+White Ball( 630.5, 275.5 )  /  radius : 11.8
+frame num : 212
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 625.5, 274.5 )  /  radius : 11.6
+frame num : 213
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 880.5, 216.5 ) /  radius : 15.4
+White Ball( 620.5, 271.5 )  /  radius : 10.35
+frame num : 214
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 879.5, 215.5 ) /  radius : 10.5
+White Ball( 617.5, 271.5 )  /  radius : 11.8
+frame num : 215
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 612.5, 268.5 )  /  radius : 10.5
+frame num : 216
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 875.5, 214.5 ) /  radius : 10.6
+White Ball( 609.5, 267.5 )  /  radius : 11.6
+frame num : 217
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 874.5, 214.5 ) /  radius : 15.4
+White Ball( 606.5, 265.5 )  /  radius : 11.6
+frame num : 218
+Red Ball( 411.5, 174.5 )  /  radius : 13
+Yellow Ball( 872.5, 214.5 ) /  radius : 15.4
+White Ball( 602.5, 266.5 )  /  radius : 13.8
+frame num : 219
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 871.5, 214.5 ) /  radius : 11.6
+White Ball( 598.5, 262.5 )  /  radius : 11.6
+frame num : 220
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 869.5, 212.5 ) /  radius : 15.4
+White Ball( 595.5, 260.5 )  /  radius : 10.5
+frame num : 221
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 590.5, 260.5 )  /  radius : 12.4
+frame num : 222
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 588.5, 256.5 )  /  radius : 12.5
+frame num : 223
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 862.5, 210.5 ) /  radius : 10.5
+White Ball( 584.5, 255.5 )  /  radius : 10.5
+frame num : 224
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 580.5, 254.5 )  /  radius : 11.6
+frame num : 225
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 577.5, 252.5 )  /  radius : 10.5
+frame num : 226
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 859.5, 210.5 ) /  radius : 12.1
+White Ball( 574.5, 250.5 )  /  radius : 15.4
+frame num : 227
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 857.5, 208.5 ) /  radius : 15.4
+White Ball( 569.5, 249.5 )  /  radius : 11.5
+frame num : 228
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 566.5, 247.5 )  /  radius : 10.5
+frame num : 229
+Red Ball( 854.5, 210.5 )  /  radius : 11.8
+Yellow Ball( 853.5, 207.5 ) /  radius : 15.4
+White Ball( 562.5, 247.5 )  /  radius : 11.6
+frame num : 230
+Red Ball( 411.5, 173.5 )  /  radius : 11
+Yellow Ball( 852.5, 206.5 ) /  radius : 15.4
+White Ball( 559.5, 246.5 )  /  radius : 11.8
+frame num : 231
+Red Ball( 412.5, 171.5 )  /  radius : 11
+Yellow Ball( 849.5, 206.5 ) /  radius : 15.4
+White Ball( 556.5, 243.5 )  /  radius : 10.6
+frame num : 232
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 848.5, 206.5 ) /  radius : 15.4
+White Ball( 551.5, 243.5 )  /  radius : 11.3
+frame num : 233
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 848.5, 205.5 ) /  radius : 15.4
+White Ball( 549.5, 240.5 )  /  radius : 10.6
+frame num : 234
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 846.5, 204.5 ) /  radius : 15.4
+White Ball( 544.5, 239.5 )  /  radius : 11.6
+frame num : 235
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 542.5, 237.5 )  /  radius : 10.5
+frame num : 236
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 538.5, 238.5 )  /  radius : 12.1
+frame num : 237
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 841.5, 202.5 ) /  radius : 15.4
+White Ball( 536.5, 235.5 )  /  radius : 11.6
+frame num : 238
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 532.5, 233.5 )  /  radius : 10.5
+frame num : 239
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 840.5, 203.5 ) /  radius : 13.1
+White Ball( 529.5, 232.5 )  /  radius : 10.6
+frame num : 240
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 525.5, 230.5 )  /  radius : 10.5
+frame num : 241
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 835.5, 200.5 ) /  radius : 15.4
+White Ball( 521.5, 230.5 )  /  radius : 11.8
+frame num : 242
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 832.5, 200.5 ) /  radius : 14.2
+White Ball( 520.5, 228.5 )  /  radius : 10.6
+frame num : 243
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 832.5, 200.5 ) /  radius : 15.4
+White Ball( 517.5, 227.5 )  /  radius : 10.6
+frame num : 244
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 828.5, 199.5 ) /  radius : 13.2
+White Ball( 513.5, 225.5 )  /  radius : 10.5
+frame num : 245
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 510.5, 223.5 )  /  radius : 10.5
+frame num : 246
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 506.5, 222.5 )  /  radius : 11.5
+frame num : 247
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 826.5, 198.5 ) /  radius : 15.4
+White Ball( 504.5, 221.5 )  /  radius : 10.35
+frame num : 248
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 501.5, 220.5 )  /  radius : 10.35
+frame num : 249
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 498.5, 220.5 )  /  radius : 11
+frame num : 250
+Red Ball( 413.5, 171.5 )  /  radius : 11
+Yellow Ball( 823.5, 196.5 ) /  radius : 15.4
+White Ball( 495.5, 220.5 )  /  radius : 11.8
+frame num : 251
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 819.5, 196.5 ) /  radius : 15.4
+White Ball( 492.5, 217.5 )  /  radius : 10.6
+frame num : 252
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 819.5, 196.5 ) /  radius : 15.4
+White Ball( 819.5, 196.5 )  /  radius : 11.8
+frame num : 253
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 818.5, 195.5 ) /  radius : 10.6
+White Ball( 486.5, 213.5 )  /  radius : 10.5
+frame num : 254
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 817.5, 194.5 ) /  radius : 10.5
+White Ball( 483.5, 213.5 )  /  radius : 10.35
+frame num : 255
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 480.5, 211.5 )  /  radius : 10.6
+frame num : 256
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 478.5, 211.5 )  /  radius : 11.8
+frame num : 257
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 812.5, 194.5 ) /  radius : 15.4
+White Ball( 475.5, 209.5 )  /  radius : 10.6
+frame num : 258
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 813.5, 192.5 ) /  radius : 15.4
+White Ball( 472.5, 209.5 )  /  radius : 11.8
+frame num : 259
+Red Ball( 409.5, 176.5 )  /  radius : 12.1
+Yellow Ball( 811.5, 192.5 ) /  radius : 15.4
+White Ball( 470.5, 206.5 )  /  radius : 10.6
+frame num : 260
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 810.5, 192.5 ) /  radius : 15.4
+White Ball( 467.5, 205.5 )  /  radius : 10.6
+frame num : 261
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 809.5, 191.5 ) /  radius : 15.4
+White Ball( 464.5, 205.5 )  /  radius : 11.8
+frame num : 262
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 807.5, 191.5 ) /  radius : 15.4
+White Ball( 461.5, 204.5 )  /  radius : 11.4
+frame num : 263
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 806.5, 191.5 ) /  radius : 15.4
+White Ball( 458.5, 201.5 )  /  radius : 10.6
+frame num : 264
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 805.5, 191.5 ) /  radius : 15.4
+White Ball( 456.5, 200.5 )  /  radius : 10.6
+frame num : 265
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 0, 0 ) /  radius : 0
+White Ball( 453.5, 198.5 )  /  radius : 15.4
+frame num : 266
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 802.5, 190.5 ) /  radius : 15.4
+White Ball( 450.5, 198.5 )  /  radius : 10.5
+frame num : 267
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 801.5, 190.5 ) /  radius : 10.35
+White Ball( 448.5, 197.5 )  /  radius : 10.5
+frame num : 268
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 801.5, 192.5 ) /  radius : 13.1
+White Ball( 445.5, 196.5 )  /  radius : 10.6
+frame num : 269
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 799.5, 188.5 ) /  radius : 15.4
+White Ball( 443.5, 195.5 )  /  radius : 10.6
+frame num : 270
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 798.5, 189.5 ) /  radius : 10.3
+White Ball( 440.5, 193.5 )  /  radius : 10.35
+frame num : 271
+Red Ball( 412.5, 171.5 )  /  radius : 11
+Yellow Ball( 797.5, 188.5 ) /  radius : 10.35
+White Ball( 438.5, 193.5 )  /  radius : 10.6
+frame num : 272
+Red Ball( 412.5, 171.5 )  /  radius : 11
+Yellow Ball( 795.5, 187.5 ) /  radius : 10.6
+White Ball( 434.5, 191.5 )  /  radius : 10.6
+frame num : 273
+Red Ball( 411.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 795.5, 187.5 ) /  radius : 15.4
+White Ball( 433.5, 190.5 )  /  radius : 10.5
+frame num : 274
+Red Ball( 412.5, 172.5 )  /  radius : 11.8
+Yellow Ball( 431.5, 189.5 ) /  radius : 11.8
+White Ball( 429.5, 189.5 )  /  radius : 10.35
+frame num : 275
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 793.5, 187.5 ) /  radius : 11.8
+White Ball( 428.5, 189.5 )  /  radius : 11.8
+frame num : 276
+Red Ball( 412.5, 171.5 )  /  radius : 10.9
+Yellow Ball( 792.5, 186.5 ) /  radius : 15.4
+White Ball( 424.5, 188.5 )  /  radius : 11.8
+frame num : 277
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 791.5, 185.5 ) /  radius : 15.4
+White Ball( 423.5, 186.5 )  /  radius : 10.6
+frame num : 278
+Red Ball( 408.5, 176.5 )  /  radius : 10.9
+Yellow Ball( 419.5, 185.5 ) /  radius : 11
+White Ball( 419.5, 185.5 )  /  radius : 10.9
+frame num : 279
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 417.5, 183.5 ) /  radius : 14.2
+White Ball( 417.5, 183.5 )  /  radius : 10.6
+frame num : 280
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 787.5, 184.5 ) /  radius : 15.4
+White Ball( 414.5, 183.5 )  /  radius : 10.6
+frame num : 281
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 786.5, 185.5 ) /  radius : 10.6
+White Ball( 0, 0 )  /  radius : 0
+frame num : 282
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 411.5, 174.5 ) /  radius : 11.8
+White Ball( 409.5, 181.5 )  /  radius : 15.4
+frame num : 283
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 410.5, 171.5 ) /  radius : 10.9
+White Ball( 784.5, 186.5 )  /  radius : 11
+frame num : 284
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 783.5, 184.5 ) /  radius : 15.4
+White Ball( 405.5, 179.5 )  /  radius : 10.6
+frame num : 285
+Red Ball( 402.5, 178.5 )  /  radius : 10.6
+Yellow Ball( 783.5, 186.5 ) /  radius : 13.1
+White Ball( 402.5, 177.5 )  /  radius : 15.4
+frame num : 286
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 400.5, 176.5 ) /  radius : 13.2
+White Ball( 400.5, 176.5 )  /  radius : 10.6
+frame num : 287
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 781.5, 185.5 ) /  radius : 11.8
+White Ball( 399.5, 175.5 )  /  radius : 10.6
+frame num : 288
+Red Ball( 400.5, 175.5 )  /  radius : 10.6
+Yellow Ball( 400.5, 175.5 ) /  radius : 10.9
+White Ball( 400.5, 175.5 )  /  radius : 11
+frame num : 289
+Red Ball( 779.5, 186.5 )  /  radius : 15.4
+Yellow Ball( 400.5, 174.5 ) /  radius : 14.3
+White Ball( 399.5, 174.5 )  /  radius : 11.8
+frame num : 290
+Red Ball( 0, 0 )  /  radius : 0
+Yellow Ball( 401.5, 175.5 ) /  radius : 14.3
+White Ball( 401.5, 175.5 )  /  radius : 10.6
+frame num : 291
+Red Ball( 415.5, 170.5 )  /  radius : 11
+Yellow Ball( 401.5, 175.5 ) /  radius : 10.6
+White Ball( 400.5, 175.5 )  /  radius : 10.6
+frame num : 292
+Red Ball( 401.5, 175.5 )  /  radius : 10.9
+Yellow Ball( 777.5, 182.5 ) /  radius : 15.4
+White Ball( 401.5, 174.5 )  /  radius : 15.4
+frame num : 293
+Red Ball( 400.5, 175.5 )  /  radius : 10.6
+Yellow Ball( 775.5, 180.5 ) /  radius : 15.4
+White Ball( 401.5, 175.5 )  /  radius : 10.6
+frame num : 294
+Red Ball( 400.5, 174.5 )  /  radius : 14.1
+Yellow Ball( 401.5, 174.5 ) /  radius : 10.6
+White Ball( 400.5, 174.5 )  /  radius : 11
+frame num : 295
+Red Ball( 421.5, 169.5 )  /  radius : 11.8
+Yellow Ball( 773.5, 180.5 ) /  radius : 15.4
+White Ball( 401.5, 172.5 )  /  radius : 13.2
+frame num : 296
+Red Ball( 421.5, 169.5 )  /  radius : 11.8
+Yellow Ball( 400.5, 174.5 ) /  radius : 11
+White Ball( 400.5, 174.5 )  /  radius : 15.4
+frame num : 297
+Red Ball( 422.5, 168.5 )  /  radius : 10.9
+Yellow Ball( 773.5, 180.5 ) /  radius : 15.4
+White Ball( 401.5, 174.5 )  /  radius : 10.9
+frame num : 298
+Red Ball( 423.5, 167.5 )  /  radius : 10.6
+Yellow Ball( 772.5, 179.5 ) /  radius : 14.3
+White Ball( 401.5, 174.5 )  /  radius : 10.9
+frame num : 299
+Red Ball( 423.5, 166.5 )  /  radius : 11
+Yellow Ball( 771.5, 179.5 ) /  radius : 15.4
+White Ball( 401.5, 174.5 )  /  radius : 10.6
+frame num : 300
+Red Ball( 424.5, 164.5 )  /  radius : 11.8
+Yellow Ball( 402.5, 175.5 ) /  radius : 12.1
+White Ball( 401.5, 174.5 )  /  radius : 10.6
